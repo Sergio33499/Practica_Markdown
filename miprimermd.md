@@ -26,7 +26,7 @@ hola()
 [Markdown][https://github.com/VicenteR14/PracticaMD/blob/main/miprimermd.md]
 
 ### Imagen
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo de GitHub](/GitHub-Logo.png)
 
 ### TABLA
 |NOMBRE |EDAD|CIUDAD|
